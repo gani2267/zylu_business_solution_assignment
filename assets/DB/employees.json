@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Varun Bhardwaj",
+    "Exp": 3,
+    "isActive": true,
+    "State": "Karnataka"
+  },
+  {
+    "Name": "Girish Meena",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Rajasthan"
+  },
+  {
+    "Name": "Vishal Pal",
+    "Exp": 4,
+    "isActive": true,
+    "State": "Utter Pradesh"
+  },
+  {
+    "Name": "Ankitesh Patel",
+    "Exp": 6,
+    "isActive": true,
+    "State": "Utter Pradesh"
+  },
+  {
+    "Name": "Parvej Alam",
+    "Exp": 5,
+    "isActive": false,
+    "State": "Rajasthan"
+  },
+  {
+    "Name": "Kapil Gurjar",
+    "Exp": 3,
+    "isActive": true,
+    "State": "Rajasthan"
+  },
+  {
+    "Name": "Ompal Parmar",
+    "Exp": 9,
+    "isActive": true,
+    "State": "Rajasthan"
+  },
+  {
+    "Name": "Prathamesh Patil",
+    "Exp": 7,
+    "isActive": true,
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Shubham Mane",
+    "Exp": 4,
+    "isActive": false,
+    "State": "Karnataka"
+  },
+  {
+    "Name": "Ashish Kumar",
+    "Exp": 6,
+    "isActive": true,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Shubham Mahawar",
+    "Exp": 7,
+    "isActive": true,
+    "State": "Chhattisgarh"
+  },
+  {
+    "Name": "Rishu Kumar",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Naveen Sahu",
+    "Exp": 5,
+    "isActive": true,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Shivakant Gupta",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Utter Pradesh"
+  },
+  {
+    "Name": "Amardeep Kumar",
+    "Exp": 3,
+    "isActive": true,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Utkarsh Jamdade",
+    "Exp": 4,
+    "isActive": false,
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Karan Chavhan",
+    "Exp": 7,
+    "isActive": true,
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Anil Jale",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Telengana"
+  },
+  {
+    "Name": "Chandan Kumar",
+    "Exp": 4,
+    "isActive": true,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Akash Banne",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Summanth Reddy",
+    "Exp": 8,
+    "isActive": true,
+    "State": "Andhra Pradesh"
+  },
+  {
+    "Name": "Hemanth Khimavath",
+    "Exp": 6,
+    "isActive": false,
+    "State": "Telengana"
+  },
+  {
+    "Name": "Kanhaiya Kumbhar",
+    "Exp": 7,
+    "isActive": true,
+    "State": "Bihar"
+  },
+  {
+    "Name": "Vikas Patil",
+    "Exp": 10,
+    "isActive": true,
+    "State": "Maharashtra"
+  }
+]
